@@ -1,5 +1,8 @@
 # All-SEAing Eye (prototype)
 
+![All-SEAing Eye](https://user-images.githubusercontent.com/93939472/170839655-a7f2bfa2-8205-4943-8fcb-21d8a2ae0add.png)
+
+
 ## Install mmdetection
 
 Install mmdetection using [mmdet_install.ipynb](https://github.com/star-bits/all-seaing-eye/blob/main/mmdet_install.ipynb).
