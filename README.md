@@ -1,7 +1,6 @@
 # All-SEAing Eye (prototype)
 
-![All-SEAing Eye](https://user-images.githubusercontent.com/93939472/170839655-a7f2bfa2-8205-4943-8fcb-21d8a2ae0add.png)
-
+![All-SEAing Eye](https://user-images.githubusercontent.com/93939472/170851486-ef6c8707-0ab0-414e-83f2-74de666aba57.png)
 
 ## Install mmdetection
 
@@ -20,14 +19,14 @@ Organize the dataset directory as follows:
         images/
             20201112/
             ...
-    train
+    train/
         images/
             20201216/
             ...
         labels/
             20201216/
             ...
-    valid
+    valid/
         images/
             20201224/
             ...
