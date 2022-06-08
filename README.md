@@ -1,4 +1,4 @@
-# All-SEAing Eye (prototype)
+# All-SEAing Eye (Proof of Concept)
 
 ![All-SEAing Eye](https://user-images.githubusercontent.com/93939472/170851486-ef6c8707-0ab0-414e-83f2-74de666aba57.png)
 
