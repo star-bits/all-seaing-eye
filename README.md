@@ -1,4 +1,4 @@
-# All-SEAing Eye (Proof of Concept)
+# All-SEAing Eye
 
 ![All-SEAing Eye](https://user-images.githubusercontent.com/93939472/170851486-ef6c8707-0ab0-414e-83f2-74de666aba57.png)
 
@@ -38,14 +38,11 @@ Put [anns_generate_files_rename.ipynb](https://github.com/star-bits/all-seaing-e
 
 ## Train and Inference
 
-Place [swin_faster_cfg.py](https://github.com/star-bits/all-seaing-eye/blob/main/swin_faster_cfg.py), [test.ipynb](https://github.com/star-bits/all-seaing-eye/blob/main/test.ipynb), and [train.ipynb](https://github.com/star-bits/all-seaing-eye/blob/main/train.ipynb) in `mmdetection/tools` and run `train.ipynb` to train, and `test.ipynb` to get inference. 
+Place [test.ipynb](https://github.com/star-bits/all-seaing-eye/blob/main/test.ipynb), and [train.ipynb](https://github.com/star-bits/all-seaing-eye/blob/main/train.ipynb) in `mmdetection/tools` and run `train.ipynb` to train, and `test.ipynb` to get inference. 
 
-Faster R-CNN with Swin-Tiny backbone is used. 
+Cascade R-CNN with ResNet-101 backbone is used. 
 
-### Ground truth visualized:
-![gt](https://github.com/star-bits/all-seaing-eye/blob/main/images/gt.png)
-
-### Inference result visualized:
+### Inference results visualized:
 
 ![output-1](https://github.com/star-bits/all-seaing-eye/blob/main/images/output-1.png)
 ![output-2](https://github.com/star-bits/all-seaing-eye/blob/main/images/output-2.png)
