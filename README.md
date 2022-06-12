@@ -44,6 +44,8 @@ Place [test.ipynb](https://github.com/star-bits/all-seaing-eye/blob/main/test.ip
 
 Cascade R-CNN with ResNet-101 backbone is used. 
 
+With image size of 768x432, the inference performance is 26.5 FPS.
+
 ### Inference results visualized:
 
 ![output-1](https://github.com/star-bits/all-seaing-eye/blob/main/images/output-1.png)
