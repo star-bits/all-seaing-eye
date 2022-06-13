@@ -53,3 +53,5 @@ With image size of 768x432, the inference performance is 26.5 FPS.
 ![output-3](https://github.com/star-bits/all-seaing-eye/blob/main/images/output-3.png)
 ![output-4](https://github.com/star-bits/all-seaing-eye/blob/main/images/output-4.png)
 ![output-5](https://github.com/star-bits/all-seaing-eye/blob/main/images/output-5.png)
+![output-6](https://github.com/star-bits/all-seaing-eye/blob/main/images/output-6.png)
+![output-7](https://github.com/star-bits/all-seaing-eye/blob/main/images/output-7.png)
